@@ -6,7 +6,7 @@
 	max-width: 415px;
 	height: 750px;
 	margin: 0 auto;
-	background-color: #D9FD00;
+	background-color: #ffff00;
 }
 
 .tetlaes__first {
@@ -54,6 +54,29 @@ h1{
     flex-wrap: wrap;
     justify-content: space-around;
 
+}
+
+.nav {
+	position: absolute;
+	width: 415px;
+	height: 49px;
+	top: 751px;
+	background: #FFFFFF;
+}
+
+.calendar-nav {
+	position: absolute;
+	left: 282px;
+}
+
+.onas-nav {
+	position: absolute;
+	left: 40px;
+}
+
+.yclugu-nav {
+	position: absolute;
+	left: 161px;
 }
 
 
