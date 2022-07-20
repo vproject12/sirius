@@ -4,7 +4,7 @@
 
 .container {
 	max-width: 415px;
-	height: 750px;
+	min-height: 750px;
 	margin: 0 auto;
 	background-color: #ffff00;
 }
